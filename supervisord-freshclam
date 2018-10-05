@@ -1,0 +1,3 @@
+[program:freshclam]
+command=/usr/bin/freshclam -v -d
+priority=1

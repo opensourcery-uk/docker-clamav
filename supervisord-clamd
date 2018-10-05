@@ -1,0 +1,4 @@
+[program:clamd]
+command=/usr/sbin/clamd
+priority=2
+startretries=99999
